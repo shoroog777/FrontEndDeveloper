@@ -1,0 +1,13 @@
+html,
+body {
+	align-items: center;
+	font-family: sans-serif;
+
+}
+.course-title"{
+	font-size: 32px;
+	text-align: center;
+}
+footer{
+	margin:10px;
+}
